@@ -1,0 +1,6 @@
+@ERP_sustav_HostAddress = http://localhost:5078
+
+GET {{ERP_sustav_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
