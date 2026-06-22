@@ -1,5 +1,6 @@
 ﻿namespace ERP_sustav.Models;
 
+// <summary>
 public class Product
 {
     public int Id { get; set; }
